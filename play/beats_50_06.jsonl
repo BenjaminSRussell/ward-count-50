@@ -18,3 +18,6 @@
 {"n":18,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mast yard. Nobody past the north mouth. We start in 6 steps. Arc on the left lane, open."}
 {"n":19,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north mouth. Bess keeps the plywood for the start. 7 steps, arc on the left lane, open."}
 {"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north mouth. arc left open. 8 steps. The plywood stays for the start."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Last Light. Nobody past the north mouth. We start in 2 steps. Arc on the left lane, open."}
+{"n":22,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north mouth. Matt keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":23,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north mouth. arc left open. 4 steps. The plywood stays for the start."}
