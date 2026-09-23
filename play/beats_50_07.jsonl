@@ -845,3 +845,6 @@
 {"n":845,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north mouth. We start in 6 steps. Arc on the left lane, open."}
 {"n":846,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass north mouth. Matt keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
 {"n":847,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north mouth. arc left open. 8 steps. The radio coil stays for the start."}
+{"n":848,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at the Underpass. Nobody past the north mouth. We start in 2 steps. Arc on the left lane, open."}
+{"n":849,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass north mouth. Nia keeps the radio coil for the start. 3 steps, arc on the left lane, open."}
+{"n":850,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north mouth. arc left open. 4 steps. The radio coil stays for the start."}
