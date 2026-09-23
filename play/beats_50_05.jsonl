@@ -586,3 +586,6 @@
 {"n":586,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Drydock. Nobody past the east mouth. We start in 8 steps. Arc on the left lane, open."}
 {"n":587,"kind":"place","name":"Drydock east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock east mouth. Bess keeps the drum for the start. 2 steps, arc on the left lane, open."}
 {"n":588,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east mouth. arc left open. 3 steps. The drum stays for the start."}
+{"n":589,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at High line. Nobody past the east mouth. We start in 4 steps. Arc on the left lane, open."}
+{"n":590,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line east mouth. Matt keeps the drum for the start. 5 steps, arc on the left lane, open."}
+{"n":591,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east mouth. arc left open. 6 steps. The drum stays for the start."}
