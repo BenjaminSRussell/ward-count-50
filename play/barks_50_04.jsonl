@@ -567,3 +567,6 @@
 {"n":567,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard east mouth. Bess keeps the crate for the start. 4 steps, arc on the left lane, open."}
 {"n":568,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east mouth. arc left open. 5 steps. The crate stays for the start."}
 {"n":569,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Drydock. Nobody past the east mouth. We start in 6 steps. Arc on the left lane, open."}
+{"n":570,"kind":"place","name":"Drydock east mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock east mouth. Matt keeps the crate for the start. 7 steps, arc on the left lane, open."}
+{"n":571,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east mouth. arc left open. 8 steps. The crate stays for the start."}
+{"n":572,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Drydock. Nobody past the east mouth. We start in 2 steps. Arc on the left lane, open."}
