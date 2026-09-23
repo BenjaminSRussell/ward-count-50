@@ -556,3 +556,6 @@
 {"n":556,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line south curb. Ivo keeps the crate for the start. 4 steps, arc on the left lane, open."}
 {"n":557,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south curb. arc left open. 5 steps. The crate stays for the start."}
 {"n":558,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at High line. Nobody past the south curb. We start in 6 steps. Arc on the left lane, open."}
+{"n":559,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south curb. Bess keeps the crate for the start. 7 steps, arc on the left lane, open."}
+{"n":560,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south curb. arc left open. 8 steps. The crate stays for the start."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Ward gate. Nobody past the south curb. We start in 2 steps. Arc on the left lane, open."}
