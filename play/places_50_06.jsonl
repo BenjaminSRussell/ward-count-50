@@ -707,3 +707,6 @@
 {"n":707,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north mouth. arc left open. 2 steps. The lamp stays for the start."}
 {"n":708,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at South stair. Nobody past the north mouth. We start in 3 steps. Arc on the left lane, open."}
 {"n":709,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair north mouth. Nia keeps the lamp for the start. 4 steps, arc on the left lane, open."}
+{"n":710,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north mouth. arc left open. 5 steps. The lamp stays for the start."}
+{"n":711,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at South stair. Nobody past the north mouth. We start in 6 steps. Arc on the left lane, open."}
+{"n":712,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north mouth. Ivo keeps the lamp for the start. 7 steps, arc on the left lane, open."}
