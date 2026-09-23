@@ -289,3 +289,6 @@
 {"n":289,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north mouth. Nia keeps the barrel for the start. 4 steps, arc on the left lane, open."}
 {"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north mouth. arc left open. 5 steps. The barrel stays for the start."}
 {"n":291,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Kessler alley. Nobody past the north mouth. We start in 6 steps. Arc on the left lane, open."}
+{"n":292,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north mouth. Ivo keeps the barrel for the start. 7 steps, arc on the left lane, open."}
+{"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north mouth. arc left open. 8 steps. The barrel stays for the start."}
+{"n":294,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Kessler alley. Nobody past the north mouth. We start in 2 steps. Arc on the left lane, open."}
